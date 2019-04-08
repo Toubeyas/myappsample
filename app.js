@@ -1149,7 +1149,7 @@ var BierbrezelInfo = {"mon":"11:00-01:00","tue":"11:00-01:00","wed":"11:00-01:00
 var EnchiladaInfo = {"mon":"17:00-00:00","tue":"17:00-00:00","wed":"17:00-00:00","thu":"17:00-00:00","fri":"17:00-01:00","sat":"17:00-01:00","sun":"17:00-00:00","phone":"07251 6183337","description":"Mexikanisches Restaurant"};
 var CashInfo = {"mon":"17:00-03:00","tue":"17:00-03:00","wed":"17:00-03:00","thu":"17:00-03:00","fri":"17:00-03:00","sat":"17:00-03:00","sun":"17:00-03:00","phone":"n/a"};
 var FreiraumInfo = {"mon":"10:00-23:00","tue":"10:00-23:00","wed":"10:00-23:00","thu":"10:00-23:00","fri":"10:00-02:00","sat":"11:00-02:00","sun":"13:00-23:00","phone":"0160 8426281"};
-var bars = [
+var serverBars = [
 	{"barName":"Zapfhahn", "menu":Zapfhahn,"info":ZapfhahnInfo},
 	{"barName":"Altbaden", "menu":Altbaden,"info":AltbadenInfo},
 	{"barName":"Bierbrezel", "menu":Bierbrezel,"info":BierbrezelInfo},
