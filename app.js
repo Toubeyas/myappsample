@@ -1,5 +1,5 @@
 function testing(){
-  console.log("Hello world");
+  console.log("Hello world timing test");
 }
 var Zapfhahn=[
   {
