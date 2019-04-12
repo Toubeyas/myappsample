@@ -363,6 +363,11 @@ var Zapfhahn = [
 	"type":0
 },
 {
+	"name":"Kräusen im Krug 0,5l",
+	"price":3.6,
+	"type":0
+},
+{
 	"name":"Radler 0,4l",
 	"price":2.4,
 	"type":0
