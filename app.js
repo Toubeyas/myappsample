@@ -137,7 +137,7 @@ var Enchilada = [
 	"happyHour":6.0,
 	"enchiHour":6.0,
 	"cocktailWürfeln":1
-},
+}/*,
 {
 	"name":"Cloud 9",
 	"price":7.8,
@@ -145,7 +145,7 @@ var Enchilada = [
 	"happyHour":6.0,
 	"enchiHour":6.0,
 	"cocktailWürfeln":1
-},
+}*/,
 {
 	"name":"Enchilada Cooler",
 	"price":7.8,
